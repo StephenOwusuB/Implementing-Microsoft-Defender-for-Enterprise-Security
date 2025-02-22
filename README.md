@@ -4,11 +4,23 @@
 <b>In this project, I leveraged Microsoft Azure to create and manage a cloud-based virtual machine running Windows 10. By exposing this VM to the internet, I harnessed the power of Azure Log Analytics Workspace, Microsoft Defender for Cloud, and Azure Sentinel to gather and analyze attack data, visualizing it on a map within Microsoft Sentinel. To dive deeper, I utilized PowerShell to monitor the Event Viewer on the exposed VM, specifically targeting EventID 4625 for failed logon attempts. This data was collected in a logfile, and through an API integration with IPgeolocation.io, I mapped the origins of these logon attempts using Microsoft Sentinel.This hands-on experience enriched my understanding of SIEMs, cloud services, APIs, and Microsoft Azure. I mastered the provisioning and configuration of cloud resources, gained proficiency in interpreting SIEM logs, and much more.I thoroughly enjoyed this project and hope it inspires readers to undertake similar projects or leverage the insights gained here to explore even more possibilities with Azure.<b/>
 <br />
 
-| Project Name | Description | Link |
-|--------------|-------------|------|
-| Project A    | Description of Project A | [GitHub Link](https://github.com/yourusername/projectA) |
-| Project B    | Description of Project B | [GitHub Link](https://github.com/yourusername/projectB) |
-| Project C    | Description of Project C | [GitHub Link](https://github.com/yourusername/projectC) |
+<h2>Description</h2>
+<b>Below are related labs that I will recommend taking a look at before completing this lab.<b/>
+<br />
+  
+| Home Lab                      | Description                                            | Link                                                    |
+|-------------------------------|--------------------------------------------------------|---------------------------------------------------------|
+| Defender via GPO              | Deploy Defender via GPO                                | [GitHub Link](https://github.com/yourusername/projectA) |
+| Defender via Local script     | Deploy Defender via Local script                       | [GitHub Link](https://github.com/yourusername/projectB) |
+| Test Antivirus                |How to test antivirus using EICAR file                  | [GitHub Link](https://github.com/yourusername/projectC) |
+| Submissions(Microsoft Analysis|How to submit files, emails, teams messages, URLs       | [GitHub Link](https://github.com/yourusername/projectC) |
+| Network Protection            |Network Protection in MDE Attack Surface Reduction (ASR)| [GitHub Link](https://github.com/yourusername/projectC) |
+| Defender for Cloud Apps       |Lock down Cloud apps & protect data                     | [GitHub Link](https://github.com/yourusername/projectC) |
+| Live Response                 |How to use Live Responsetest|                           | [GitHub Link](https://github.com/yourusername/projectC) |
+
+<h2>Description</h2>
+<b>Attack Detection and Response using Microsoft Defender<b/>
+<br />
 
 <h2>Utilities Used</h2>
 
