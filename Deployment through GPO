@@ -1,0 +1,73 @@
+Go to security.microsoft.com. Once on the page, navigate to Settings and select Endpoints. Scroll down to Device management and select Onboarding. Here, you will choose the onboarding options. The deployment methods range from Group Policy to downloading the package. Ensure the deployment method is Group Policy, as the scripts vary based on the deployment method.
+
+On your Domain Controller (DC), extract the downloaded package. You will see the WindowsDefenderATPOnboardscript and OptionalParamsPolicy folders. The OptionalParamsPolicy folder includes two files used for enabling sample collection for deep analysis. The WindowsDefenderATPOnboardscript is used to onboard devices.
+
+Go to Group Policy Management:
+
+Expand your domain.
+
+Select Group Policy.
+
+Right-click and select New.
+
+Name your GPO (e.g., Onboarding MDE Device).
+
+Since this involves computer configuration, ensure the file is accessible to the client from the shared location itself by performing the following configurations:
+
+Right-click the Group Policy and select Edit.
+
+Go to Computer Configuration > Preferences > Control Panel Settings.
+
+Click Scheduled Tasks.
+
+Right-click the space and select New > Immediate Task (at least Windows 7).
+
+Specify a name (e.g., deviceonboard).
+
+Specify security options by typing SYSTEM to select NT AUTHORITY\SYSTEM and ensure it runs with the highest privileges.
+
+Define an action by selecting the Action tab at the top and clicking New. Define the location where the file exists.
+
+Next, to create a share folder:
+
+Go to Server Manager and click on File and Shares.
+
+Select Tasks and click on New Share.
+
+Select SMB Quick Profile and click Next.
+
+Specify the volume for the share and select a custom path.
+
+Select the share folder you created on the root drive or create a new one.
+
+Click Next and proceed through the wizard, adding descriptions and configuring share settings as needed.
+
+Disable inheritance and convert inherited permissions into explicit permissions. Remove all default users and add specific users or groups with the required permissions.
+
+Click OK, Apply, and Create.
+
+To complete the task:
+
+Add domain computers permission to access the share.
+
+Copy the share path, package path, and configuration path.
+
+Paste these paths in the configuration settings in the scheduled task.
+
+Click Apply and OK.
+
+This means the Group Policy Object (GPO) has been created with the respective task.
+
+For sample collection:
+
+Use the same GPO or create a new one if you intend to exclude some devices.
+
+Go to the file location, expand the OptionalParamsPolicy folder, and copy the ADMX file.
+
+Navigate to C:\Windows\PolicyDefinitions and paste the ADMX file.
+
+Copy the en-US file and paste it in C:\Windows\PolicyDefinitions\en-US.
+
+Restart the Group Policy Management Console. If changes are not showing, restart the server.
+
+Link the GPO to the Organizational Unit (OU) by right-clicking the OU and selecting Link Existing GPO.
