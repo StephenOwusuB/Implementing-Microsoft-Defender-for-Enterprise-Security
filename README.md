@@ -18,7 +18,7 @@
 | Defender for Cloud Apps       |Lock down Cloud apps & protect data                     | [Defender For Cloud Apps](https://github.com/StephenOwusuB/Defender-for-Cloud-Apps) |
 | Live Response                 |How to use Live Responsetest                            | [Live Response](https://github.com/StephenOwusuB/how-to-use-Live-response)|
 
-<h2>Description</h2>
+<h2>This Lab</h2>
 <b>Attack Detection and Response using Microsoft Defender<b/>
 <br />
 
