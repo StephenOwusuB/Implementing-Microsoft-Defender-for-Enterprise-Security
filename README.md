@@ -11,7 +11,7 @@
 | Home Lab                      | Description                                            | Link                                                                  |
 |-------------------------------|--------------------------------------------------------|-----------------------------------------------------------------------|
 | Defender via GPO              | Deploy Defender via GPO                                | [Defender via GPO](https://github.com/StephenOwusuB/Defender-via-GPO) |
-| Defender via Local script     | Deploy Defender via Local script                       | [GitHub Link](https://github.com/yourusername/projectB) |
+| Defender via Local script     | Deploy Defender via Local script                       | [Defender via Local script](https://github.com/StephenOwusuB/Defender-via-Local-script) |
 | Test Antivirus                |How to test antivirus using EICAR file                  | [GitHub Link](https://github.com/yourusername/projectC) |
 | Submissions(Microsoft Analysis|How to submit files, emails, teams messages, URLs       | [GitHub Link](https://github.com/yourusername/projectC) |
 | Network Protection            |Network Protection in MDE Attack Surface Reduction (ASR)| [GitHub Link](https://github.com/yourusername/projectC) |
