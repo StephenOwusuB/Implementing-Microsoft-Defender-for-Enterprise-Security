@@ -8,9 +8,9 @@
 <b>Below are related labs that I will recommend taking a look at before completing this lab.<b/>
 <br />
   
-| Home Lab                      | Description                                            | Link                                                    |
-|-------------------------------|--------------------------------------------------------|---------------------------------------------------------|
-| Defender via GPO              | Deploy Defender via GPO                                | [GitHub Link](https://github.com/yourusername/projectA) |
+| Home Lab                      | Description                                            | Link                                                                  |
+|-------------------------------|--------------------------------------------------------|-----------------------------------------------------------------------|
+| Defender via GPO              | Deploy Defender via GPO                                | [Defender via GPO](https://github.com/StephenOwusuB/Defender-via-GPO) |
 | Defender via Local script     | Deploy Defender via Local script                       | [GitHub Link](https://github.com/yourusername/projectB) |
 | Test Antivirus                |How to test antivirus using EICAR file                  | [GitHub Link](https://github.com/yourusername/projectC) |
 | Submissions(Microsoft Analysis|How to submit files, emails, teams messages, URLs       | [GitHub Link](https://github.com/yourusername/projectC) |
