@@ -14,7 +14,7 @@
 | Defender via Local script     | Deploy Defender via Local script                       | [Defender via Local script](https://github.com/StephenOwusuB/Defender-via-Local-script) |
 | Test Antivirus                |How to test antivirus using EICAR file                  | [Test Antivirus](https://github.com/StephenOwusuB/Test-Antivirus-WD-) |
 | Submissions(Microsoft Analysis)|How to submit files, emails, teams messages, URLs       | [Submissions](https://github.com/StephenOwusuB/Submissions-Microsoft-Analysis-) |
-| Network Protection            |Network Protection in MDE Attack Surface Reduction (ASR)| [GitHub Link](https://github.com/yourusername/projectC) |
+| Network Protection            |Network Protection in MDE Attack Surface Reduction (ASR)| [Network Protection ASR](https://github.com/StephenOwusuB/Network-Protection-in-MDE-Attack-Surface-Reduction-ASR-) |
 | Defender for Cloud Apps       |Lock down Cloud apps & protect data                     | [GitHub Link](https://github.com/yourusername/projectC) |
 | Live Response                 |How to use Live Responsetest|                           | [GitHub Link](https://github.com/yourusername/projectC) |
 
