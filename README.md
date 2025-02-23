@@ -19,7 +19,7 @@
 | Live Response                 |How to use Live Responsetest                            | [Live Response](https://github.com/StephenOwusuB/how-to-use-Live-response)|
 
 <h2>This Lab</h2>
-<b>Attack Detection and Response using Microsoft Defender<b/>
+<b>Attack Detection and Response using Microsoft Defender. For Microsoft Defender for Endpoints (MDE), you can choose either a P1 or P2 license. The P2 license offers more capabilities and advanced features.<b/>
 <br />
 
 <h2>Utilities Used</h2>
