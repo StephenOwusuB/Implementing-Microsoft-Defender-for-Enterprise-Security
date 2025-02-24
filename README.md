@@ -47,11 +47,6 @@
 
 <h2 align="center">Program walk-through</h2>
 
-<p align="center">
-<b>The first step in project is to create a Microsoft Azure account, which will serve as  the cloud environment for provision my resources. I'll take advantage of the $200 credit  that comes with the account to fund this project. Given that the resources I'll be using are not resource-intensive, I'll be able to save some of the credit for future endeavors. Additionally, I'll be utilizing a specific website for my IP geolocation.  </b> <br/>
-</p>
-
-
 
 # Incident Response Steps in Microsoft Defender
 
