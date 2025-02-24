@@ -51,8 +51,6 @@
 <b>The first step in project is to create a Microsoft Azure account, which will serve as  the cloud environment for provision my resources. I'll take advantage of the $200 credit  that comes with the account to fund this project. Given that the resources I'll be using are not resource-intensive, I'll be able to save some of the credit for future endeavors. Additionally, I'll be utilizing a specific website for my IP geolocation.  </b> <br/>
 </p>
 
-![Create_Azure_Subscription](https://user-images.githubusercontent.com/108043108/225348757-c41744df-2be1-4ffc-87a6-aa258a4102ef.JPG)
-![Set_Up_Completed](https://user-images.githubusercontent.com/108043108/225348950-5d9c01fa-a707-4813-a6f3-012c703c41df.JPG)
 
 
 # Incident Response Steps in Microsoft Defender
