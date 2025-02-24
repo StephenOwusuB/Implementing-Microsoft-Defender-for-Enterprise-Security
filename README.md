@@ -17,6 +17,8 @@
 | Network Protection            |Network Protection in MDE Attack Surface Reduction (ASR)| [Network Protection ASR](https://github.com/StephenOwusuB/Network-Protection-in-MDE-Attack-Surface-Reduction-ASR-) |
 | Defender for Cloud Apps       |Lock down Cloud apps & protect data                     | [Defender For Cloud Apps](https://github.com/StephenOwusuB/Defender-for-Cloud-Apps) |
 | Live Response                 |How to use Live Responsetest                            | [Live Response](https://github.com/StephenOwusuB/how-to-use-Live-response)|
+| Automated Investigation and Response(AIR) |Automated Investigation and Response        | [Automated Investigation and Response](https://github.com/StephenOwusuB/how-to-use-Live-response)|
+
 
 <h2>This Lab</h2>
 <b>Attack Detection and Response using Microsoft Defender. For Microsoft Defender for Endpoints (MDE), you can choose either a P1 or P2 license. The P2 license offers more capabilities and advanced features.<b/>
