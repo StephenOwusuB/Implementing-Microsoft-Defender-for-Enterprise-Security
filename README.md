@@ -43,8 +43,7 @@
 
 <h2>Links</h2>
 
-- <b>Microsoft Azure Free Trial:</b> https://azure.microsoft.com/en-us/free/
-- <b>IPGeolocation:</b> https://ipgeolocation.io/
+
 
 <h2 align="center">Program walk-through</h2>
 
